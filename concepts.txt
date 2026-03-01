@@ -1,0 +1,6 @@
+
+Git Concepts Practiced:
+1. Init
+2. Commit
+3. Push and Pull
+4. Branching and Merging
